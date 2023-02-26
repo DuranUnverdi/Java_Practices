@@ -1,3 +1,5 @@
+package ArrayEx;
+
 import java.util.Scanner;
 
 public class Array_1 {
